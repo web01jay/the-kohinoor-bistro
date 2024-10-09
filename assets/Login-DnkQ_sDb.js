@@ -1,0 +1,1 @@
+import{d as o,u as t,j as s}from"./index-DjjOTPdH.js";const i=()=>{o();const n=t(),a=()=>{n("/dashboard")};return s.jsxs("div",{children:[s.jsx("h1",{children:"Login Page"}),s.jsx("button",{onClick:a,children:"Log In"})]})};export{i as default};
